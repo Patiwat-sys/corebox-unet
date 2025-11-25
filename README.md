@@ -52,4 +52,24 @@ This repository contains:
 ---
 
 ## 📁 Folder Structure
+corebox-unet/
+│
+├── Run Model.ipynb
+├── dataset/
+│ ├── images/
+│ ├── jsons/
+│ └── masks/
+└── README.md
+
+---
+
+## 📦 Dependencies
+torch
+torchvision
+segmentation-models-pytorch
+albumentations
+opencv-python
+numpy
+matplotlib
+scikit-learn
 
